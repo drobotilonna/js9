@@ -1,5 +1,5 @@
 let st =true
 while(st ==true){
-    console.log("uuuu...")
+    console.log("uuuuu...")
     st=confirm('продолжыть?')
 }
